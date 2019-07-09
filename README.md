@@ -12,14 +12,14 @@ Note: If the user has a lot of followers, it's possible that the script will run
 
 ## CSV file fields
 
-ID: Internal Twitter user ID.
-NAME: User display name.
-USER: Twitter username (handle, @).
-FOLLOWED: True if the user owner of the API keys follows this user.
-FOLLOWERS: How many accounts follow the user.
-FOLLOWING: How many accounts the user follows.
-LISTED: How many lists the user is listed on.
-FAVOURITES: How many tweets the user has favorited.
-STATUSES: How many times the user has tweeted.
-CREATED_AT: Date and time of creation of the user account.
+ID: Internal Twitter user ID.  
+NAME: User display name.  
+USER: Twitter username (handle, @).  
+FOLLOWED: True if the user owner of the API keys follows this user.  
+FOLLOWERS: How many accounts follow the user.  
+FOLLOWING: How many accounts the user follows.  
+LISTED: How many lists the user is listed on.  
+FAVOURITES: How many tweets the user has favorited.  
+STATUSES: How many times the user has tweeted.  
+CREATED_AT: Date and time of creation of the user account.  
 PROFILE_IMAGE: URL of the user's profile image.
