@@ -1,14 +1,14 @@
 {
   "name": "followers2csv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Save a list of followers of a Twitter user to a CSV file.",
   "main": "index.js",
   "repository": "https://gitlab.com/zavan/followers2csv",
   "author": "Felipe Zavan <felipe@zavan.me>",
   "license": "MIT",
   "dependencies": {
-    "csv-writer": "^1.4.0",
-    "dotenv": "^8.0.0",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^8.2.0",
     "twit": "^2.2.11"
   }
 }
